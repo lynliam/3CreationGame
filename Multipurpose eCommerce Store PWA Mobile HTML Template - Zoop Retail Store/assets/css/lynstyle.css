@@ -1,0 +1,94 @@
+/* ----------------------------------------------------------------------- */
+.detailtitle {
+    padding: 2px 8px;
+    border-radius: 4px;
+    background:#F0F0F0;
+}
+.detailtitle p {
+    color:#707070;
+    font-family: Lato;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+}
+
+.display-yingyeshijian{
+    padding: 2px 1px;
+    border-radius: 4px;
+    background:white;
+}
+.display-yingyeshijian p{
+    color:rgb(105, 168, 10);
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+}
+
+.addr-txt{
+    color: #000;
+    font-family: Lato;
+    font-size: 13 px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.display-time{
+    padding: 2px 4px;
+    border-radius: 4px;
+    background:white;
+}
+.display-time p{
+    color:black;
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+}
+
+.little-title-sec {
+    display: flex;
+    align-items: center;
+    margin-top: 3px;
+}
+.icon-solution{
+    display: flex;
+    align-items: center;
+    margin-top: 16px;
+    padding-right: 0px; /* 根据图标大小和所需间距调整 */
+    justify-content: space-between
+}
+.mycontainer{
+    background-color: lightblue;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.title-txt1 {
+    color: #000;
+    font-family: Space Grotesk;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.deal-sold-sec {
+    margin-top: 4px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background:#F0F0F0;
+}
+.deal-sold-sec p {
+    color:#707070;
+    font-family: Lato;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+}
+/* ------------------------------------------------------------------------------ */

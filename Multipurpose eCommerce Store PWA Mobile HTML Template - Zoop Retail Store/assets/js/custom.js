@@ -53,10 +53,10 @@ $radioButtons.click(function() {
 $('.moreless-button').click(function() {
   $('.moretext').toggleClass('d-inline');
 
-  if ($('.moreless-button').text() == "Read less") {
-    $(this).text("Read more")
+  if ($('.moreless-button').text() == "收起") {
+    $(this).text("展开")
   } else {
-    $(this).text("Read less")
+    $(this).text("收起")
   }
 });
 /*------------------------------------- Increment Decrement-------------------------------------*/
